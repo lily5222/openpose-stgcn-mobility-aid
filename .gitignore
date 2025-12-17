@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data (DO NOT upload raw data)
+data/raw/
+data/openpose/
+data/videos/
+*.mp4
+*.avi
+
+# Arrays
+*.npy
+*.npz
+
+# Models
+*.pth
+*.pt
+
+# OS
+.DS_Store
